@@ -39,13 +39,6 @@ Using the model's output, platforms can **reduce the visibility** of content lik
 3. **Backend Work**
 4. **Deployment**
 
----
-
-## 🔗 Project Link
-
-**Project Title:** Fake News Detection Using Machine Learning  
-**All parts are available in the playlist**  
-**Channel Name:** `codejay`
 
 ---
 
@@ -57,3 +50,12 @@ Use the package manager `pip` to install required libraries.
 pip install virtualenv
 virtualenv env_name
 env_name/scripts/activate
+
+
+## 🚀 Start Project
+
+Follow these commands to start your project:
+
+```bash
+pip install -r requirements.txt
+python app.py
