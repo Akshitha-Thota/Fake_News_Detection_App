@@ -1,15 +1,5 @@
 # Fake News Detection Project
 
-**This project is available for open source contribution.**
-
-🎥 **Video Link on YouTube**  
-If you want a detailed explanation of this project, feel free to watch the videos.  
-Make sure to **like** the video and **subscribe** to the channel if you find it helpful.
-
-**Project Title:** *Fake News Detection Using Machine Learning*
-
----
-
 ## 📌 Overview
 
 The topic of fake news detection on social media has recently attracted tremendous attention. The basic countermeasure of comparing websites against a list of labeled fake news sources is inflexible, and so a machine learning approach is desirable.
