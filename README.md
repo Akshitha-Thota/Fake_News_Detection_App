@@ -40,12 +40,21 @@ Use the package manager `pip` to install required libraries.
 pip install virtualenv
 virtualenv env_name
 env_name/scripts/activate
+```
+## Start Project
 
-
-## 🚀 Start Project
-
-Follow these commands to start your project:
+Follow these commands to start your project.
 
 ```bash
 pip install -r requirements.txt
+```
+```bash
 python app.py
+```
+## Home page
+
+![Test Image 1](https://github.com/codejay411/Fake_News_detection/blob/main/Screenshot%20(58).png)
+
+## Prediction page
+
+![Test Image 1](https://github.com/codejay411/Fake_News_detection/blob/main/Screenshot%20(59).png)
