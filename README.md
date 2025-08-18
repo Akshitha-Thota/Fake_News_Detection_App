@@ -38,6 +38,11 @@ Cloning a Git repository means creating a local copy of a remote project on your
 ```bash
 git clone <repository_url>
 ```
+For Example 
+
+```bash
+git clone https://github.com/username/repository.git
+```
 ## ⚙️ Installation
 
 Use the package manager `pip` to install required libraries.
