@@ -41,7 +41,7 @@ git clone <repository_url>
 For Example 
 
 ```bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/Akshitha-Thota/Fake_News_Detection_App.git
 ```
 ## ⚙️ Installation
 
@@ -49,7 +49,11 @@ Use the package manager `pip` to install required libraries.
 
 ```bash
 pip install virtualenv
+```
+```bash
 virtualenv env_name
+```
+```bash
 env_name/scripts/activate
 ```
 ## Start Project
