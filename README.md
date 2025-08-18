@@ -31,7 +31,13 @@ Using the model's output, platforms can **reduce the visibility** of content lik
 
 
 ---
+# Cloning a Git Repository
 
+Cloning a Git repository means creating a local copy of a remote project on your system using the command:
+
+```bash
+git clone <repository_url>
+```
 ## ⚙️ Installation
 
 Use the package manager `pip` to install required libraries.
