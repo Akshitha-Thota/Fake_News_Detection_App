@@ -68,8 +68,8 @@ python app.py
 ```
 ## Home page
 
-![Test Image 1](images/Screenshot_2025-08-18_180905.png)
+![Test Image 1](https://github.com/Akshitha-Thota/Fake_News_Detection_App/blob/c3cef3a2561b41055e66306f34348ba2a3bd9a2b/Screenshot%202025-08-18%20180905.png)
 
 ## Prediction page
 
-![Test Image 1](https://github.com/codejay411/Fake_News_detection/blob/main/Screenshot%20(59).png)
+![Test Image 1](https://github.com/Akshitha-Thota/Fake_News_Detection_App/blob/c3cef3a2561b41055e66306f34348ba2a3bd9a2b/Screenshot%202025-08-18%20180919.png)
