@@ -68,7 +68,7 @@ python app.py
 ```
 ## Home page
 
-![Test Image 1](https://github.com/codejay411/Fake_News_detection/blob/main/Screenshot%20(58).png)
+![Test Image 1](images/Screenshot_2025-08-18_180905.png)
 
 ## Prediction page
 
